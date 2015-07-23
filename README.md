@@ -23,4 +23,4 @@ RELATED UNITY FORUM TOPIC
 ===============
 http://forum.unity3d.com/threads/221985-Lux-%96-an-open-source-physically-based-shading-framework?p=1488116&viewfull=1#post1488116
 
-![](http://jonah.fi/himalaja.php?w=100&h=100&d=gits)
+![](http://jonah.fi/himalaja.php?w=100&h=100&d=git34534s345)
